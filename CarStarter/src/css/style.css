@@ -1,0 +1,21 @@
+.btnOn {
+	background: linear-gradient(to right, black, rgb(95, 92, 92));
+	color: white;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	text-align: center;
+
+	border: solid lime 5px;
+}
+
+.btnOff {
+	background: linear-gradient(to right, black, rgb(95, 92, 92));
+	color: white;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	text-align: center;
+	justify-self: center;
+	border: solid red 5px;
+}
